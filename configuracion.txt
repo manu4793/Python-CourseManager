@@ -1,0 +1,24 @@
+Lenguajes de Programacion
+estudiantes.txt
+3
+Parcial 1
+100.0
+40.0
+Parcial 2
+100.0
+40.0
+Final
+100.0
+20.0
+Velez, Cesar
+A00381478
+100.0
+0.0
+0.0
+40.00
+Ruiz, Manuel
+A00387008
+90.0
+100.0
+0.0
+76.00
